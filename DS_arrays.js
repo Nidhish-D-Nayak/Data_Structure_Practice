@@ -24,4 +24,4 @@ hashMapMain.set("main", "project");
 hashMapMain.set("flag", "projec2");
 console.log(hashMapMain);
 
-// #
+// #Arrays Examples
