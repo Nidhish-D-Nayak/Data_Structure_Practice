@@ -24,4 +24,15 @@ hashMapMain.set("main", "project");
 hashMapMain.set("flag", "projec2");
 console.log(hashMapMain);
 
-// #Arrays Examples
+// #JS Objects
+
+let objectOne = { "firstName": "John", lastName: "Doe", mage: 20, age: 50, eyeColor: "blue" };
+console.log(objectOne);
+let push = (name, value) => {
+    objectOne[name] = value;
+}
+push('Nidhish', 23);
+console.log(objectOne);
+
+// #More Extras
+
